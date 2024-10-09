@@ -6,3 +6,7 @@ In this folder you will get HTML , CSS and JavScript code for a high class weath
 Replace your own API key in the script.js file.
 
 ![key](https://github.com/user-attachments/assets/54ef671f-9990-4616-b16a-7884fb6d4d0e)
+
+# Screenshot
+Here is the screenshot of the project 
+
