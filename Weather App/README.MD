@@ -10,3 +10,4 @@ Replace your own API key in the script.js file.
 # Screenshot
 Here is the screenshot of the project 
 
+![SCREENSHOT](https://github.com/user-attachments/assets/a5d708c3-4c26-4439-9322-8b328c803cf9)
