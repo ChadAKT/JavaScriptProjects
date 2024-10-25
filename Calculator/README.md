@@ -2,7 +2,7 @@
 
 A stylish calculator built with HTML, CSS, and JavaScript, featuring light and dark mode toggles, smooth animations, and a user-friendly interface. This project is fully responsive, making it accessible and visually appealing on all device sizes.
 
-![Calculator Preview]
+Photos of the project - 
 ![Screenshot (167)](https://github.com/user-attachments/assets/f07515f2-819d-4beb-86b8-e912b015c438)
 
 ## Features
